@@ -3,10 +3,10 @@
 ##### HERE IS THE URL OF THE WEBISTE :
 https://fabulous-chaja-fd4f54.netlify.app/
 
-##### A FULLSTACK MERN APP BASICALLY TRACKS A LIST OF ITEMS TO BE DONE IT CAN FILTER THROUGH 3 TYPES OF TASKS :
-- All To Do's
-- Already Done To Do's
-- Uncompleted/Active To Do's
+##### A FULLSTACK MERN APP BASICALLY TRACKS A LIST OF ACTIVITIES TO BE DONE IT CAN FILTER THROUGH 3 TYPES OF TASKS :
+- All The Tasks
+- Already Tasks
+- Uncompleted/Active Tasks
 
  ##### TECHSTACK USED IN THIS PROJECT ARE :
  - NODE JS
