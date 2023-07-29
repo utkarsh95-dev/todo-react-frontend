@@ -1,7 +1,7 @@
 ### MERN stack Todo Website:-
 
 ##### HERE IS THE URL OF THE WEBISTE :
-https://fabulous-chaja-fd4f54.netlify.app/
+https://64c4ff68f4454964c969c6c8--classy-fudge-3aa656.netlify.app
 
 ##### A FULLSTACK MERN APP BASICALLY TRACKS A LIST OF ACTIVITIES TO BE DONE IT CAN FILTER THROUGH 3 TYPES OF TASKS :
 - All The Tasks
